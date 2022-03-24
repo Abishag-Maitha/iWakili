@@ -35,15 +35,12 @@ height: 30vh;
     width: 100%;
     width: 20vw;
     color: teal;
-    font-weight: bold;
-    
-    
-  
+    font-weight: bold; 
 }
 
 .edit p{
   display: none;
-  color: white;
+  color:white;
   position: absolute;
   top: 50%;
 } 
@@ -58,7 +55,7 @@ height: 30vh;
   transform: translateY(0);
   }
 100%{
-  transform: translateY(-15vw);
+  transform: translateY(-17vw);
 }
 }
 
